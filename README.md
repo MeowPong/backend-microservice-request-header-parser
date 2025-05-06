@@ -2,15 +2,23 @@
 <b>This mini-project was part of my Back End Development and APIs coursework on freeCodeCamp.org.</b>
 
 <h2>Features</h2>
-- Returns the client's IP address
-- Returns the client's language preference from headers
-- Returns the client's software details (user-agent)
-- CORS-enabled for cross-origin access
-- Publicly accessible API for testing purposes
+<ul>
+   <li>Returns the client's IP address</li>
+   <li>Returns the client's language preference from headers</li>
+   <li>Returns the client's software details (user-agent)</li>
+   <li>CORS-enabled for cross-origin access</li>
+   <li>Publicly accessible API for testing purposes</li>
+</ul>
 
 <h2>Installation</h2>
+
+## Installation
+
+ **Clone the repository:**
+
    ```bash
    git clone https://github.com/MeowPong/backend-microservice-request-header-parser
    cd boilerplate-project-headerparser
    npm install 
    npm start
+
