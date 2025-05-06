@@ -10,7 +10,7 @@
 
 <h2>Installation</h2>
    ```bash
-   git clone https://github.com/freeCodeCamp/boilerplate-project-headerparser.git
+   git clone https://github.com/MeowPong/backend-microservice-request-header-parser
    cd boilerplate-project-headerparser
    npm install 
    npm start
