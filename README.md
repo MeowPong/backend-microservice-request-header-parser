@@ -16,7 +16,7 @@
 
    ```bash
    git clone https://github.com/MeowPong/backend-microservice-request-header-parser
-   cd boilerplate-project-headerparser
+   cd backend-microservice-request-header-parser
    npm install 
    npm start
 
